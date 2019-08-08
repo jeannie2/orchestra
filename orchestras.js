@@ -48,8 +48,8 @@ canvas.width  = window.innerWidth;
 var ctx = canvas.getContext("2d"); //create a drawing object QQ
 
 //styles before draw
-ctx.strokeStyle = "red";
-ctx.lineWidth = 0.8;
+ctx.strokeStyle = "black";
+ctx.lineWidth = 0.65;
 
 
 window.onload = function() {
